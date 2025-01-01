@@ -1,0 +1,13 @@
+.pointer-icon {
+    cursor: pointer;
+}
+
+.font-italic {
+    font-style: italic;
+    font-size: large;
+    font-weight: bold;
+}
+
+.padding-top-100 {
+    padding-top: 100px;
+}
